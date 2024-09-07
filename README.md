@@ -1,7 +1,7 @@
  Hi, I’m @Vanni-927
  I’m interested in exploring fields such as AI/ML , web development and many more.
  I’m currently learning C,C++ language.
- Want to excel in varing tech domains and upskill myself.
+ Want to excel in various tech domains and upskill myself.
  Fun fact: I had mentioned a few technical domains although I have not even started one yet!
 
 <!---
